@@ -13,7 +13,7 @@ import SellPage from "../src/components/sell-page/sellPage";
 import Signup from "./components/SignUp";
 import MortgagePage from "./components/Mortgage-page/MortgagePage";
 import BuyPage from "./components/BuyPage/BuyPage";
-import Properties from "./components/properties/properties";
+import Properties from "./components/property/property"
 import Services from "./components/services/services";
 import Serviceview from "./components/serviceview/serviceview";
 import Propertyview from "./components/propertyview/propertyview";
